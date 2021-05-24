@@ -19,4 +19,4 @@ The app crashes or doesn't work if you want to connect to devices in you local n
 You found an issue, which is not listed above and has not already been reported? Then feel free to open a new issue :)
 
 # Support me
-You want support me? Thanks! You could do it via [Ko-Fi](https://ko-fi.com/mjssoft) or via [PayPal](https://paypal.me/mjssoft)
+You want to support me? Thank you very much! You could do it via [Ko-Fi](https://ko-fi.com/mjssoft) or via [PayPal](https://paypal.me/mjssoft)
