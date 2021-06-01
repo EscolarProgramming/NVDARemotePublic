@@ -14,6 +14,7 @@ The app crashes or doesn't work if you want to connect to devices in you local n
 # Known (but currently not fixable) issues
 - If you use VoiceOver as speech engine, the queue doesn't work and every sentence will be interrupted if you e.g. switch to a new line
 - Keyboard enter and numpad enter can not be distinguished - this is an Apple limitation and I found no way to fix it
+- If you use VoiceOver, the escape-key doesn't work -  this is an Apple limitation and I found no way to fix it
 
 # Other issues
 You found an issue, which is not listed above and has not already been reported? Then feel free to open a new issue :)
