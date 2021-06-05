@@ -1,6 +1,9 @@
 # NVDARemotePublic
 Public repo for NVDARemote for iOS
 
+# Current problems
+Microsoft has released a faulty build of Xamarin, which prevents me from releasing a new version at this time. I have to wait until this problem is fixed. To speed things up, feel free to vote this bug report to get more attention: https://developercommunity.visualstudio.com/t/xamarinforms-ios-ioexception-sharing-violation-on/1355811
+
 # About
 [NVDARemote](https://github.com/nvdaremote/nvdaremote) is a NVDA Remote Access addon, which will allow you to connect to another computer running the free NVDA screen reader. With NVDARemote for iOS, you can also access another computer with you iOS device.
 
