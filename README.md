@@ -1,15 +1,16 @@
 # NVDARemotePublic
 Public repo for NVDARemote for iOS
 
-# Current problems
-The broken version of Xamarin is finally fixed, I can continue to develop on the app. But there's another problem: In this month (July), I have my final exams. But I promise, in August I continue to develop on the app! Sorry that you've to wait that long.
-
 # About
 [NVDARemote](https://github.com/nvdaremote/nvdaremote) is a NVDA Remote Access addon, which will allow you to connect to another computer running the free NVDA screen reader. With NVDARemote for iOS, you can also access another computer with you iOS device.
 
 # Requirements
 - An iOS or iPadOS device running with at least iOS / iPadOS 12.4
 - An external keyboard (all keystrokes from the external keyboard will be sent to the other computer)
+
+# How to get this app
+Official version: Search for NVDARemote in App Store or click [here](https://apps.apple.com/us/app/nvdaremote/id1560008403).
+Testflight version: [Click here](https://testflight.apple.com/join/tejfdnxL)
 
 # Solving of common problems
 The app crashes or doesn't work if you want to connect to devices in you local network? Check in your device settings -> Privacy -> Local network if NVDARemote is switched on
@@ -23,4 +24,4 @@ The app crashes or doesn't work if you want to connect to devices in you local n
 You found an issue, which is not listed above and has not already been reported? Then feel free to open a new issue :)
 
 # Support me
-You want to support me? Thank you very much! You could do it via [Ko-Fi](https://ko-fi.com/mjssoft) or via [PayPal](https://paypal.me/mjssoft)
+You want to support me? Thank you very much! You could do it via [PayPal](https://paypal.me/mjssoft)
